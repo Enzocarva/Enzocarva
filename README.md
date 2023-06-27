@@ -5,7 +5,7 @@ I am a 22 year old computer science student from 🇧🇷 at the University of M
 
 📈 I am most familiar with Java at the moment, but I am also learning Python, C, HTML, and CSS. I'm excited to continue learning and upgrading my skillset within the world of software development, meeting other developers and learning and working with them!
 
-🤝 Please reach out to me if you would like to collaborate or just chat on [LinkedIn](https://www.linkedin.com/in/enzo-carvalho-872218230/).
+👉 Please reach out to me if you would like to collaborate or just chat on [LinkedIn](https://www.linkedin.com/in/enzo-carvalho-872218230/). 👈
 
 ✅ Thank you for checking out my profile!
 
