@@ -1,4 +1,4 @@
-# <p align="center">< 👋 Hey there, I'm Enzo! /></p>
+# <p align="center"> 👋 Hey there, I'm Enzo! </p>
 I am a 22 year old computer science student from 🇧🇷 at the University of Miami. I am passionate about programming, and I am always looking to learn from others!
 
 💻 I am currently working on a few different projects on my own but I would love to collaborate with others, so please reach out if you want to work on a project together!
