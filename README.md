@@ -1,11 +1,11 @@
 # <p align="center"> 👋 Hey there, I'm Enzo! </p>
-I am a 22 year old computer science student from 🇧🇷 at the University of Miami. I am passionate about programming, and I am always looking to learn from others!
+I am a 22 year old computer science student from 🇧🇷 at the University of Miami 🇺🇸. I am passionate about programming, and I am always looking to learn from others!
 
 💻 I am currently working on a few different projects on my own but I would love to collaborate with others, so please reach out if you want to work on a project together!
 
 📈 I am most familiar with Java, Python, and C at the moment, but I am also learning JavaScript, HTML, and CSS. I'm excited to continue learning and upgrading my skillset within the world of software development, meeting other developers, learning and working with them!
 
-👉 Please reach out to me if you would like to collaborate or just chat on [LinkedIn](https://www.linkedin.com/in/enzo-carvalho-872218230/). 👈
+👉 Please reach out to me if you would like to collaborate or just chat on [LinkedIn](https://www.linkedin.com/in/enzo-carvalho-872218230/), and check out my [Website](https://www.enzocarva.me).👈
 
 ✅ Thank you for checking out my profile!
 
