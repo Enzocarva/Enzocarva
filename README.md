@@ -1,17 +1,13 @@
-# <p align="center"> 👋 Hey there, I'm Enzo! </p>
-I am a 22 year old computer science student from 🇧🇷 at the University of Miami 🇺🇸. I am passionate about programming, and I am always looking to learn from others!
+# <p align="center"> Enzo Carva </p>
+I am the founder of Fine Touch Dev, a software developtment agency specializing in Shopify development and Google Workspace automations with Google Apps Script.
 
-💻 I am currently working on a few different projects on my own but I would love to collaborate with others, so please reach out if you want to work on a project together!
+Take a look at our website 👉 [finetouchdev.com](https://finetouchdev.com) 👈, and if you or someone you know could benefit from our services we give 🤑 15% commission for referred clients (~$270 or more)!
 
-📈 I am most familiar with Java, Python, and C at the moment, but I am also learning JavaScript, HTML, and CSS. I'm excited to continue learning and upgrading my skillset within the world of software development, meeting other developers, learning and working with them!
-
-👉 Please reach out to me if you would like to collaborate or just chat on [LinkedIn](https://www.linkedin.com/in/enzo-carvalho-872218230/), and check out my [Website](https://www.enzocarva.me).👈
-
-✅ Thank you for checking out my profile!
+Reach out to me directly through [LinkedIn](https://www.linkedin.com/in/enzo-carvalho-872218230/) or [X/Twitter](https://x.com/Enzocarva).
 
 <div align="center">
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/Java-ED2E26.svg?style=for-the-badge&logo=Java&logoColor=white) ![C](https://img.shields.io/badge/Programming%20language-%231572B6.svg?style=for-the-badge&logo=C&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![JavaSrcipt](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Salesforce](https://img.shields.io/badge/Salesforce-%230db7ed.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+![Shopify](https://img.shields.io/badge/shopify-7AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white) ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)
 
 </div>
