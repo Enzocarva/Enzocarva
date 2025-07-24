@@ -1,7 +1,7 @@
 # <p align="center"> Enzo Carva </p>
 I am the founder of Fine Touch Dev, a software developtment agency specializing in Shopify development and Google Workspace automations with Google Apps Script.
 
-Take a look at our website 👉 [finetouchdev.com](https://finetouchdev.com) 👈, and if you or someone you know could benefit from our services we give 🤑 15% commission for referred clients (~$270 or more)!
+Take a look at our website 👉 [finetouchdev.com](https://finetouchdev.com) 👈, and if you know someone who could benefit from our services we give 🤑 15% commission for referred clients (~$270 or more)!
 
 Reach out to me directly through [LinkedIn](https://www.linkedin.com/in/enzo-carvalho-872218230/) or [X/Twitter](https://x.com/Enzocarva).
 
